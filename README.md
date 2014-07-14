@@ -4,7 +4,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 When you are inspired by community awesomeness then you clone and build upon it. The result is a .NET version of the awesome-* pages here on Git. .NET is a great platform (if you're a .NET dev then you know that already) but the Git community and Open Source community isn't as strong as it should be. So fork, add, change, and let's build a great Git resource for .NET devs!
 
-Shamelessly inspired by [awesome-ruby](https://github.com/markets/awesome-ruby),[awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks).
+Shamelessly inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks).
 
 Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/valien/awesome-dotnet/blob/master/CONTRIBUTING.md) pages first.
 
