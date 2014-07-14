@@ -1,6 +1,6 @@
 # Awesome .NET! 
 
-A collection of awesome .NET libraries, tools, frameworks and software
+A collection of awesome .NET libraries, tools, frameworks, and software.
 
 When you are inspired by community awesomeness then you clone and build upon it. The result is a .NET version of the awesome-* pages here on Git. .NET is a great platform (if you're a .NET dev then you know that already) but the Git community and Open Source community isn't as strong as it should be. So fork, add, change, and let's build a great Git resource for .NET devs!
 
