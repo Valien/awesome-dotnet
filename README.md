@@ -28,6 +28,7 @@ Thanks to all [contributors](https://github.com/valien/awesome-dotnet/graphs/con
   * [Database Drivers](#database-drivers)
   * [Debugging Tools](#debugging-tools)
   * [DevOps Tools](#devops-tools)
+  * [DirectX](#directx)
   * [Documentation](#documentation)    
   * [E-Books](#e-books)
   * [E-Commerce and Payments](#e-commerce-and-payments)
@@ -118,6 +119,9 @@ Thanks to all [contributors](https://github.com/valien/awesome-dotnet/graphs/con
 * [Vagrant](http://www.vagrantup.com) - Create and configure lightweight, reproducible, and portable development environments
 * [Chef](https://github.com/opscode/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
 * [go](https://github.com/gocd/gocd) - go continous delivery for automated deployments and builds
+
+## DirectX
+* [SlimDX](http://www.slimdx.org) - DirectX framework wrapper for .NET applications
 
 ## Documentation
 
@@ -218,6 +222,8 @@ Thanks to all [contributors](https://github.com/valien/awesome-dotnet/graphs/con
 ## Web Crawling
  
 ## Web Frameworks
+
+* [IISNode](https://github.com/tjanczuk/iisnode) - Host NodeJS applications in IIS
 
 ## Web Servers
 
