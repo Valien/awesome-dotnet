@@ -6,7 +6,7 @@ When you are inspired by community awesomeness then you clone and build upon it.
 
 Shamelessly inspired by [awesome-ruby](https://github.com/markets/awesome-ruby),[awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks).
 
-Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/valien/awesome-dotnet/blob/master/CONTRIBUTING.md) first.
+Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/valien/awesome-dotnet/blob/master/CONTRIBUTING.md) pages first.
 
 Thanks to all [contributors](https://github.com/valien/awesome-dotnet/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
@@ -17,72 +17,54 @@ Thanks to all [contributors](https://github.com/valien/awesome-dotnet/graphs/con
   * [Assets](#assets)
   * [Authentication](#authentication)
   * [Authorization](#authorization)
-
   * [Build Automation](#build-automation)
-
   * [Caching](#caching)
   * [CLI](#cli)
   * [CMS](#cms)
   * [Concurrency](#concurrency)
   * [Core Extensions](#core-extensions)
-  * [Code Analysis and Metrics](#code-analysis-and-metrics)
-    
+  * [Code Analysis and Metrics](#code-analysis-and-metrics)    
   * [Dashboards](#dashboards)
   * [Database Drivers](#database-drivers)
   * [Debugging Tools](#debugging-tools)
   * [DevOps Tools](#devops-tools)
-  * [Documentation](#documentation)
-    
+  * [Documentation](#documentation)    
   * [E-Books](#e-books)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Email](#email)  
   * [Environment Management](#environment-management)
   * [Error Handling and Monitoring](#error-handling-and-monitoring)
-
   * [File Upload](#file-upload)
-  * [Form Builder](#form-builder)
-   
+  * [Form Builder](#form-builder)   
   * [Game Development](#game-development)
   * [Geolocation](#geolocation)  
   * [Git Tools](#git-tools)
-  * [GUI](#gui)
-    
+  * [GUI](#gui)    
   * [HTML Parsing](#html-parsing)
-  * [HTTP](#http)
-  
-  * [Logging](#logging)
-    
+  * [HTTP](#http)  
+  * [Logging](#logging)    
   * [Imagery](#imagery)
-  * [Internationalization](#internationalization)
- 
+  * [Internationalization](#internationalization) 
   * [Markdown Processors](#markdown-processors)
   * [Misc](#misc)
-
   * [OAuth](#oauth)
-  * [ORM](#orm)
-  
-  * [Queue](#queue)
- 
+  * [ORM](#orm)  
+  * [Queue](#queue) 
   * [Package Management](#package-management)
   * [Pagination](#pagination)
   * [Processes and Threads](#processes-and-threads)
-  * [Profiler](#profiler)
-   
-  * [Robotics](#robotics)
-  
+  * [Profiler](#profiler)   
+  * [Robotics](#robotics)  
   * [Scheduling](#scheduling)
   * [Search](#search)
   * [SEO](#seo)
   * [Social Networking](#social-networking)
   * [Style Guide](#style-guide)
-  * [Static Site Generation](#static-site-generation)
-    
+  * [Static Site Generation](#static-site-generation)    
   * [Testing](#testing)
   * [Template Engine](#template-engine)
-  * [Third-party APIs](#third-party-apis)
-  
-  * [Video](#video)
-  
+  * [Third-party APIs](#third-party-apis)  
+  * [Video](#video)  
   * [Web Crawling](#web-crawling)
   * [Web Frameworks](#web-frameworks)
   * [Web Servers](#web-servers)
